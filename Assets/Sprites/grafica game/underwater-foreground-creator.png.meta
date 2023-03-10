@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 034766a5e6564924a865d43d5c8791de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2560059123520318613
+    second: underwater-foreground-creator_0
+  - first:
+      213: 3893264511028850622
+    second: underwater-foreground-creator_1
+  - first:
+      213: -5162900880166827384
+    second: underwater-foreground-creator_2
+  - first:
+      213: -3350735990627211772
+    second: underwater-foreground-creator_3
+  - first:
+      213: -1651300635642442754
+    second: underwater-foreground-creator_4
+  - first:
+      213: -1021554181444575105
+    second: underwater-foreground-creator_5
+  - first:
+      213: 1177413742936028609
+    second: underwater-foreground-creator_6
+  - first:
+      213: 4165613925246450380
+    second: underwater-foreground-creator_7
+  - first:
+      213: -5413079502648799163
+    second: underwater-foreground-creator_8
+  - first:
+      213: 798190642465972390
+    second: underwater-foreground-creator_9
+  - first:
+      213: 5113454035532494811
+    second: underwater-foreground-creator_10
+  - first:
+      213: 1090519026130350986
+    second: underwater-foreground-creator_11
+  - first:
+      213: -8407685767437932297
+    second: underwater-foreground-creator_12
+  - first:
+      213: 3967040407587084017
+    second: underwater-foreground-creator_13
+  - first:
+      213: -1442990478047749820
+    second: underwater-foreground-creator_14
+  - first:
+      213: 8294496269500684632
+    second: underwater-foreground-creator_15
+  - first:
+      213: 2651412723798086382
+    second: underwater-foreground-creator_16
+  - first:
+      213: -2992068423378658584
+    second: underwater-foreground-creator_17
+  - first:
+      213: -5749648555036104071
+    second: underwater-foreground-creator_18
+  - first:
+      213: 1996282586043734757
+    second: underwater-foreground-creator_19
+  - first:
+      213: 2695424660873576569
+    second: underwater-foreground-creator_20
+  - first:
+      213: 8270099505363048861
+    second: underwater-foreground-creator_21
+  - first:
+      213: -1822425028129872841
+    second: underwater-foreground-creator_22
+  - first:
+      213: -2904424061521585782
+    second: underwater-foreground-creator_23
+  - first:
+      213: -5267188357748717745
+    second: underwater-foreground-creator_24
+  - first:
+      213: 4528794278421512433
+    second: underwater-foreground-creator_25
+  - first:
+      213: 5568248939337559298
+    second: underwater-foreground-creator_26
+  - first:
+      213: -5461199587360466559
+    second: underwater-foreground-creator_27
+  - first:
+      213: 188218252732063732
+    second: underwater-foreground-creator_28
+  - first:
+      213: 4882328162072858105
+    second: underwater-foreground-creator_29
+  - first:
+      213: 2737930060717584440
+    second: underwater-foreground-creator_30
+  - first:
+      213: -1788808320421636143
+    second: underwater-foreground-creator_31
+  - first:
+      213: -4299357062229950572
+    second: underwater-foreground-creator_32
+  - first:
+      213: -7668048901021797474
+    second: underwater-foreground-creator_33
+  - first:
+      213: -2048319604036861021
+    second: underwater-foreground-creator_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: underwater-foreground-creator_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2025
+        width: 4386
+        height: 2354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c2d658538278320800000000000000
+      internalID: 2560059123520318613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2920
+        width: 515
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf62840277a70630800000000000000
+      internalID: 3893264511028850622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2025
+        width: 256
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aca13f001b958b0800000000000000
+      internalID: -5162900880166827384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2025
+        width: 259
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4066c869e5bcf71d0800000000000000
+      internalID: -3350735990627211772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_4
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1633
+        width: 1036
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbc72322d66519e0800000000000000
+      internalID: -1651300635642442754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_5
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2536
+        width: 518
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706e2862e5b2d1f0800000000000000
+      internalID: -1021554181444575105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_6
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2920
+        width: 518
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c57d5d9f83075010800000000000000
+      internalID: 1177413742936028609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_7
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2267
+        width: 135
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca3cbd6bcb3fc930800000000000000
+      internalID: 4165613925246450380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_8
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 2292
+        width: 258
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5409baf3fd0e0e4b0800000000000000
+      internalID: -5413079502648799163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_9
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 2665
+        width: 499
+        height: 751
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a93b092eb31b00800000000000000
+      internalID: 798190642465972390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_10
+      rect:
+        serializedVersion: 2
+        x: 1789
+        y: 2920
+        width: 518
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7b3336a53a6f640800000000000000
+      internalID: 5113454035532494811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_11
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 2260
+        width: 276
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83fd45c64d422f00800000000000000
+      internalID: 1090519026130350986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_12
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 2536
+        width: 262
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f821c02756e15b80800000000000000
+      internalID: -8407685767437932297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_13
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 1640
+        width: 15
+        height: 1567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f659df7b32cd0730800000000000000
+      internalID: 3967040407587084017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_14
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 2232
+        width: 176
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44951b53ec779fbe0800000000000000
+      internalID: -1442990478047749820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_15
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 2025
+        width: 203
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85914663968fb1370800000000000000
+      internalID: 8294496269500684632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_16
+      rect:
+        serializedVersion: 2
+        x: 2558
+        y: 3057
+        width: 516
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee29fe213d5bbc420800000000000000
+      internalID: 2651412723798086382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_17
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 2542
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea1ad02f990a76d0800000000000000
+      internalID: -2992068423378658584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_18
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 2232
+        width: 175
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a2cb52a152530b0800000000000000
+      internalID: -5749648555036104071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_19
+      rect:
+        serializedVersion: 2
+        x: 2841
+        y: 2025
+        width: 203
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea5f6c6f6834bb10800000000000000
+      internalID: 1996282586043734757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_20
+      rect:
+        serializedVersion: 2
+        x: 3070
+        y: 2232
+        width: 173
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9708236b272186520800000000000000
+      internalID: 2695424660873576569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_21
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 2025
+        width: 203
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d995c4aeeab45c270800000000000000
+      internalID: 8270099505363048861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_22
+      rect:
+        serializedVersion: 2
+        x: 3197
+        y: 2793
+        width: 638
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a980b71275b6e0800000000000000
+      internalID: -1822425028129872841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_23
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 2232
+        width: 174
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8998ef44b961b7d0800000000000000
+      internalID: -2904424061521585782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_24
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1892
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47805b681037e6b0800000000000000
+      internalID: -5267188357748717745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_25
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 1892
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0c222d66289de30800000000000000
+      internalID: 4528794278421512433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_26
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 1892
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d292298e4664d40800000000000000
+      internalID: 5568248939337559298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_27
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 1746
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899ed3f8ebe534b0800000000000000
+      internalID: -5461199587360466559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_28
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 1746
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffd65ee08fac9200800000000000000
+      internalID: 188218252732063732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_29
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 1746
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd0d31889381c340800000000000000
+      internalID: 4882328162072858105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_30
+      rect:
+        serializedVersion: 2
+        x: 2978
+        y: 1746
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307fe052e41ff520800000000000000
+      internalID: 2737930060717584440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_31
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1036
+        width: 1301
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d751026f40ec27e0800000000000000
+      internalID: -1788808320421636143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_32
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 2597
+        height: 1275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f7737e78d9554c0800000000000000
+      internalID: -4299357062229950572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_33
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 517
+        width: 232
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93754ec62e959590800000000000000
+      internalID: -7668048901021797474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: underwater-foreground-creator_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 518
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30aee2c28e293e0800000000000000
+      internalID: -2048319604036861021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
